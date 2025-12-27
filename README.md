@@ -56,7 +56,6 @@ src/
 
 
 ## 📸 Screenshots
-(Add screenshots of Login, Admin Dashboard, Donor Form)
 <img width="376" height="352" alt="image" src="https://github.com/user-attachments/assets/17658dcf-50c0-4f82-95ac-26816f19836f" />
 <img width="498" height="474" alt="image" src="https://github.com/user-attachments/assets/0086e7fa-98e6-478d-b6c3-2473e3bc6e17" />
 <img width="502" height="477" alt="image" src="https://github.com/user-attachments/assets/49ebd49c-0136-4b90-9413-19be25d78dd4" />

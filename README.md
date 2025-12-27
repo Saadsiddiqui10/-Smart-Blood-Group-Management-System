@@ -1,6 +1,5 @@
-# -Smart-Blood-Group-Management-System
+# -Smart-Blood-Group-Management-System (JavaFX)
 The Smart Blood Group Management System is a JavaFX-based application designed using Object-Oriented Programming principles.
-# Smart Blood Group Management System (JavaFX)
 
 ## 📌 Project Description
 The Smart Blood Group Management System is a JavaFX-based desktop application
